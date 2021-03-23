@@ -1,0 +1,15 @@
+﻿body {
+    background-color: black;
+    font-family: monospace;
+    text-align: center;
+}
+
+h1, h3 {
+    color: orangered;
+    padding: 30px;
+    padding-bottom: 0px;
+}
+
+p {
+    color: greenyellow;
+}
